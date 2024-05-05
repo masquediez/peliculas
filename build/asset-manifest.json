@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b80124f.css",
+    "main.js": "/static/js/main.e9d9e3a6.js",
+    "static/js/453.8bfc2192.chunk.js": "/static/js/453.8bfc2192.chunk.js",
+    "static/media/home2.jpg": "/static/media/home2.2140ec3a328fb6035a95.jpg",
+    "static/media/trebuc.ttf": "/static/media/trebuc.8dc5d2dd53924baa495c.ttf",
+    "index.html": "/index.html",
+    "main.5b80124f.css.map": "/static/css/main.5b80124f.css.map",
+    "main.e9d9e3a6.js.map": "/static/js/main.e9d9e3a6.js.map",
+    "453.8bfc2192.chunk.js.map": "/static/js/453.8bfc2192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b80124f.css",
+    "static/js/main.e9d9e3a6.js"
+  ]
+}
